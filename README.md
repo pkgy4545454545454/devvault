@@ -1,4 +1,4 @@
-1) #installer uvocorn server:
+1) #installer uvicorn server:
 
 pip install uvicorn
 
